@@ -27,6 +27,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresLogicos", "..\Ope
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrecedenciaDosOperadores", "..\PrecedenciaDosOperadores\PrecedenciaDosOperadores.csproj", "{E03D3A5F-65C9-47F4-AB3D-62AE629EDC61}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiposDeReferenciasAnulaveis", "..\TiposDeReferenciasAnulaveis\TiposDeReferenciasAnulaveis.csproj", "{2FAB0D79-9DAC-4068-99B1-566FBE569255}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadorTerciario", "..\OperadorTerciario\OperadorTerciario.csproj", "{61AABDD1-E488-49A3-907E-3581A7F62DDD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +85,14 @@ Global
 		{E03D3A5F-65C9-47F4-AB3D-62AE629EDC61}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E03D3A5F-65C9-47F4-AB3D-62AE629EDC61}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E03D3A5F-65C9-47F4-AB3D-62AE629EDC61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FAB0D79-9DAC-4068-99B1-566FBE569255}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FAB0D79-9DAC-4068-99B1-566FBE569255}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FAB0D79-9DAC-4068-99B1-566FBE569255}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FAB0D79-9DAC-4068-99B1-566FBE569255}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61AABDD1-E488-49A3-907E-3581A7F62DDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61AABDD1-E488-49A3-907E-3581A7F62DDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61AABDD1-E488-49A3-907E-3581A7F62DDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61AABDD1-E488-49A3-907E-3581A7F62DDD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
