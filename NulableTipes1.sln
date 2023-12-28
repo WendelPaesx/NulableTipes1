@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiposDeReferenciasAnulaveis
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadorTerciario", "..\OperadorTerciario\OperadorTerciario.csproj", "{61AABDD1-E488-49A3-907E-3581A7F62DDD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciciosFaseII", "..\ExerciciosFaseII\ExerciciosFaseII.csproj", "{DC8C2B1D-408F-44CD-B9B1-B9C53D3CF238}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{61AABDD1-E488-49A3-907E-3581A7F62DDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61AABDD1-E488-49A3-907E-3581A7F62DDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61AABDD1-E488-49A3-907E-3581A7F62DDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC8C2B1D-408F-44CD-B9B1-B9C53D3CF238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC8C2B1D-408F-44CD-B9B1-B9C53D3CF238}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC8C2B1D-408F-44CD-B9B1-B9C53D3CF238}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC8C2B1D-408F-44CD-B9B1-B9C53D3CF238}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
